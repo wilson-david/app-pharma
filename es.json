@@ -1,0 +1,21 @@
+{
+    "welcome": "Bienvenido/a ",
+    "login": "Iniciar sesión",
+    "emailPlaceholder": "example@gmail.com",
+    "passwordPlaceholder": "Contraseña",
+    "loginButton": "Iniciar",
+    "alertUser": "Usuario o contraseña incorrectos",
+    "alertEmpty": "Hay campos vacios",
+    "alertUserNot": "El usuario no existe",
+    "orderLabel": "Orden",
+    "addressLabel": "Dirección",
+    "contactLabel": "Contacto",
+    "dateLabel": "Fecha",
+    "nameLabel": "Nombre",
+    "priceLabel": "Precio",
+    "goBackButton": "Volver",
+    "order": "Orden",
+    "delivered": "Entregado",
+    "close": "Cerrar"
+    
+}
